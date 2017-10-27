@@ -5,7 +5,7 @@ Student: Ostanin Mike.
 Variant D: Balancing a la segway with straight movement.
 
 ## Task description
-Create Lego Robot and PID controller.
+Create a Lego Robot and find thr best coefficients for pid controller of lego robot
 
 ## Description of the work process:
 
