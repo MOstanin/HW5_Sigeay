@@ -4,10 +4,10 @@ Student: Ostanin Mike.
  
 Variant D: Balancing a la segway with straight movement.
 
-###Task description
+## Task description
 Create Lego Robot and PID controller.
 
-###Description of the work process:
+## Description of the work process:
 
 I used official LEGO® MINDSTORMS® EV3 Software for programming my robot.
 
@@ -24,7 +24,7 @@ Before starting the main loop of the program Gyro sensor is reset.
 4. Add Ki for decrease static error.
 5. Optimization parameters.
 
-### Results
+## Results
 The PID controller coefficients are folow: Kp=30, Kd=1, Ki=0.1.
 
 Video: https://drive.google.com/file/d/0B6twz1PXaR8ISlM1bVJlaTNEclU/view?usp=sharing 
